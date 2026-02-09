@@ -1,4 +1,4 @@
-# Angebot-Scraper
+# Monster-Energy-Scraper
 
 Ein Python-Skript zum Scrapen und Verwalten von Monster-Energy Angeboten über kaufda.de.
 
